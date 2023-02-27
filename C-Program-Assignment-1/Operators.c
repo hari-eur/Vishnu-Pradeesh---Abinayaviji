@@ -17,6 +17,7 @@ int main()
     printf("GREATER THAN COMPARISON OPERATOR : %d\n",num1>num2);
     printf("EQUAL TO COMPARISON OPERATOR : %d\n",num1 == num2);
     printf("LOGICAL AND  OPERATOR : %d\n",num1&&num2);
-    printf("SIZE OF OPERATOR : %lu\n",sizeof(num1));    printf("TERNARY OPERATOR : %d\n",(num1>num2? num2:num1));
+    printf("SIZE OF OPERATOR : %lu\n",sizeof(num1));    
+    printf("TERNARY OPERATOR : %d\n",(num1>num2? num2:num1));
     return 0;
 }
