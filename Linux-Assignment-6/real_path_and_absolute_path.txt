@@ -1,0 +1,8 @@
+ 22/04/2023   13:45.03   /drives/c/Users/temp/Downloads/linux_assignments  realpath file.txt
+/drives/c/Users/temp/Downloads/linux_assignments/file.txt
+                                                                                                                                   ✓
+
+  22/04/2023   13:47.19   /drives/c/Users/temp/Downloads/linux_assignments  pwd
+/drives/c/Users/temp/Downloads/linux_assignments
+                                                                                                                                   ✓
+
