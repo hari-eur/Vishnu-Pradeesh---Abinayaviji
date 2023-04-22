@@ -1,0 +1,43 @@
+                                                                                                                                   ✓
+
+  22/04/2023   13:50.36   /drives/c/Users/temp/Downloads/linux_assignments  wc file.txt
+        5        32       174 file.txt
+                                                                                                                                   ✓
+
+
+  22/04/2023   13:50.58   /drives/c/Users/temp/Downloads/linux_assignments  head file.txt
+ hi hello how are you this is xmen
+ speaking from hollywood film
+ xmen is a powerful men among all.
+ terminator is also the powerful men but always
+ xmen is the most power.
+                                                                                                                                   ✓
+
+  22/04/2023   13:51.47   /drives/c/Users/temp/Downloads/linux_assignments  head -3 file.txt
+ hi hello how are you this is xmen
+ speaking from hollywood film
+ xmen is a powerful men among all.
+                                                                                                                                   ✓
+
+  22/04/2023   13:51.57   /drives/c/Users/temp/Downloads/linux_assignments  tail -3 file.txt
+ xmen is a powerful men among all.
+ terminator is also the powerful men but always
+ xmen is the most power.
+                                                                                                                                   ✓
+
+
+  22/04/2023   13:52.03   /drives/c/Users/temp/Downloads/linux_assignments  cat file.txt
+ hi hello how are you this is xmen
+ speaking from hollywood film
+ xmen is a powerful men among all.
+ terminator is also the powerful men but always
+ xmen is the most power.
+                                                                                                                                   ✓
+
+
+  22/04/2023   13:53.21   /drives/c/Users/temp/Downloads/linux_assignments  cat file.txt | grep x
+ hi hello how are you this is xmen
+ xmen is a powerful men among all.
+ xmen is the most power.
+                                                                                                                                   ✓
+
