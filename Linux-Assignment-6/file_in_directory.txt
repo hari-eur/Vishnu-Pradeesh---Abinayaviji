@@ -1,0 +1,17 @@
+
+  22/04/2023   13:42.05   /drives/c/Users/temp/Downloads  mkdir linux_assignments
+                                                                                                                                   ✓
+
+
+  22/04/2023   13:42.25   /drives/c/Users/temp/Downloads  cd linux_assignments/
+                                                                                                                                   ✓
+
+                                                                                                                                   ✓
+
+  22/04/2023   13:43.08   /drives/c/Users/temp/Downloads/linux_assignments  vi file.txt
+                                                                                                                                   ✓
+
+  22/04/2023   13:43.24   /drives/c/Users/temp/Downloads/linux_assignments  ls
+file.txt
+                                                                                                                                   ✓
+
